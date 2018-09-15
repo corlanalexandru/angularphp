@@ -1,5 +1,4 @@
-# angularphp
-
+# angularphp - Fun with Countries
 
 Simple Angular application with PHP and SQLite as backend for data.
 
